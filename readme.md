@@ -1,2 +1,2 @@
-Este es un proyecto react | Este es un cambio
-Este otro cambio | John San Martin 
+Este es un proyecto react | Este es un nuevo cambio | Jeremy | John San Martin
+
